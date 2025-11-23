@@ -1,16 +1,11 @@
 # gemini3_english_learning
 
-A new Flutter project.
+基于flutter框架和阿里通义视觉理解大模型的图片翻译app
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+app内有官方获取通义apikey的途径，获取后填入app设置页面即可工作
 
-A few resources to get you started if this is your first Flutter project:
+浪来bilibili:https://space.bilibili.com/1834448890
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
